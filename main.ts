@@ -1,4 +1,4 @@
-import { concatenate, toUpperCase, toLowerCase, reverseString } from "./stringOperations";
+import { concatenate, toUpperCase, toLowerCase, reverseString } from "./internal module/stringOperations";
 
 function main() {
     console.log(concatenate("Hello", "World"));
